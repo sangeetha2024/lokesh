@@ -67,3 +67,4 @@ print("method2",x)
 x=12
 x**=1
 print("method2",x)
+
